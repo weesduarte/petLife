@@ -121,6 +121,16 @@ h2{
     border-top: none;
     border-radius: 0 0 8px 8px;
     margin-top: -8px;
+    padding: 0 24px;
+    height: 0;
+    opacity: 0;
+    overflow: hidden;
+    transition: .2s;
+}
+
+.ask.active .description {
+    height: fit-content;
+    opacity: 1;
     padding: 24px;
 }
 

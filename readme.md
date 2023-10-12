@@ -11,7 +11,7 @@ Programa gratuito, promovido pela OneBitCode para ensino de tecnologias WEB.
 </p>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
+  <img alt="projeto DevLinks" src=".github/gif.gif" width="100%">
 </p>
 
 ## 🚀 Tecnologias
